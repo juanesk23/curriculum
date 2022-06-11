@@ -1,0 +1,38 @@
+.foto-perfil {
+    width: 200px;
+    height: 200px;
+    border-width: 0.2px;    
+}
+
+.body {
+    background-color: #C2CAD0;
+}
+
+.img-thumbnail {
+    border: none;
+}
+
+.data-info {
+    text-align: left !important;
+    margin-left: 30px;
+}
+
+.skills {
+    text-align: left;
+    margin-left: 44px;
+}
+
+.nombre {
+    font-size: 2.0rem !important; 
+}
+
+.edu {
+    text-align: left; 
+}
+
+.bold {
+    font-weight: bold;    
+}
+
+
+
